@@ -1,4 +1,4 @@
-hquery{
+query{
   
   characters(page: 2) { 
     results{
