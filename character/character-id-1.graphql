@@ -1,4 +1,4 @@
-query {
+dquery {
     character (id: 1){
         id 
         name
