@@ -1,4 +1,4 @@
-jquery{
+query{
   
   characters(page: 1) { 
     results{
