@@ -1,4 +1,4 @@
-# Get Character by ID – GraphQL Queries
+## Get Character by ID – GraphQL Queries
 
 This directory contains GraphQL queries and their outputs to retrieve specific character data from the Rick and Morty GraphQL API.
 
