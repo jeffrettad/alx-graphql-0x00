@@ -1,4 +1,4 @@
-# Episode Details by ID
+## Episode Details by ID
 Use this query to fetch the details of a specific episode using its ID. The query retrieves:
 -id
 -name
