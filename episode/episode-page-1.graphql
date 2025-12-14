@@ -1,4 +1,4 @@
-hquery{
+query{
   
   episode(id: 1) { 
     
