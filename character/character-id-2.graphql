@@ -1,4 +1,4 @@
-query {
+hquery {
     character (id: 2){
         id 
         name
