@@ -1,4 +1,4 @@
-query{
+gquery{
   
   characters(page: 3) { 
     results{
